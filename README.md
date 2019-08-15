@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/austinicy/Udacity_Microservices_Project.svg?style=svg)](https://circleci.com/gh/austinicy/Udacity_Microservices_Project)
+![CircleCI](https://circleci.com/gh/austinicy/Udacity_Microservices_Project.svg?style=svg)](https://circleci.com/gh/austinicy/Udacity_Microservices_Project)
 
 ## Project Overview
 
